@@ -1,0 +1,32 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	color: #FF0000;
+	font-weight: 300;
+	background-color:#000000;
+	padding-bottom: 60px;
+}
+
+.line{
+	border: 1.2px solid ;
+}
+
+.text-muted {
+	color:#BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super{
+	font-size:60px;
+}
+
+.title-logo{
+	margin-top:20px;
+}
+
+.bio{
+	color: #BCBBBB;
+	font-size:20px;
+}
